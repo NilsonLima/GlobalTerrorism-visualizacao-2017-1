@@ -1,2 +1,5 @@
 # GlobalTerrorism-visualizacao-2017-1
-Projeto da disciplina de "Visualização de Dados" do Centro de Informática (CIn) da UFPE. O projeto busca mostrar informações e correlações entre os dados da base "Global Terrorism Database" (https://www.kaggle.com/START-UMD/gtd) através de elementos visuais utilizando a biblioteca D3.js
+
+## Project
+
+Final project of [Data Visualization Course](https://visualizacao-ufpe.github.io/data_vis_course_website/spring_2017/index.html). This project aims to show correlations between terrorists groups all across the globe using "Global Terrorism Database" (https://www.kaggle.com/START-UMD/gtd). Visualizations were made in Javascript D3 library.
