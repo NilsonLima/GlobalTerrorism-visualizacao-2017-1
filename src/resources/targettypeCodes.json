@@ -1,0 +1,28 @@
+targettypeCodes = {
+	"name": "Target Type",
+	"column": "targtype1",
+	"codes":	[
+		{"code":  1 , "name": "BUSINESS"},
+		{"code":  2 , "name": "GOVERNMENT (GENERAL)"},
+		{"code":  3 , "name": "POLICE"},
+		{"code":  4 , "name": "MILITARY"},
+		{"code":  5 , "name": "ABORTION RELATED"},
+		{"code":  6 , "name": "AIRPORTS & AIRCRAFT"},
+		{"code":  7 , "name": "GOVERNMENT (DIPLOMATIC)"},
+		{"code":  8 , "name": "EDUCATIONAL INSTITUTION"},
+		{"code":  9 , "name": "FOOD OR WATER SUPPLY"},
+		{"code": 10 , "name": "JOURNALISTS & MEDIA"},
+		{"code": 11 , "name": "MARITIME (INCLUDES PORTS AND MARITIME FACILITIES)"},
+		{"code": 12 , "name": "NGO"},
+		{"code": 13 , "name": "OTHER"},
+		{"code": 14 , "name": "PRIVATE CITIZENS & PROPERTY"},
+		{"code": 15 , "name": "RELIGIOUS FIGURES/INSTITUTIONS"},
+		{"code": 16 , "name": "TELECOMMUNICATION"},
+		{"code": 17 , "name": "TERRORISTS/NON‐STATE MILITIAS"},
+		{"code": 18 , "name": "TOURISTS"},
+		{"code": 19 , "name": "TRANSPORTATION (OTHER THAN AVIATION)"},
+		{"code": 20 , "name": "UNKNOWN"},
+		{"code": 21 , "name": "UTILITIES"},
+		{"code": 22 , "name": "VIOLENT POLITICAL PARTIES"}
+	]
+};

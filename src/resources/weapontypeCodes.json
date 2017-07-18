@@ -1,0 +1,19 @@
+weapontypeCodes = {
+	"name": "Weapon Type",
+	"column": "weaptype1",
+	"codes":	[
+		{"code":  1 , "name": "Biological"},
+		{"code":  2 , "name": "Chemical"},
+		{"code":  3 , "name": "Radiological"},
+		{"code":  4 , "name": "Nuclear"},
+		{"code":  5 , "name": "Firearms"},
+		{"code":  6 , "name": "Explosives/Bombs/Dynamite"},
+		{"code":  7 , "name": "Fake Weapons"},
+		{"code":  8 , "name": "Incendiary"},
+		{"code":  9 , "name": "Melee"},
+		{"code": 10 , "name": "Vehicle"},
+		{"code": 11 , "name": "Sabotage Equipment"},
+		{"code": 12 , "name": "Other"},
+		{"code": 13 , "name": "Unknown"}
+	]
+};

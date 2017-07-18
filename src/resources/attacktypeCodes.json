@@ -1,0 +1,15 @@
+attacktypeCodes = { 
+	"name": "Attack Type",
+	"column": "attacktype1",
+	"codes":	[
+		{"code": 1 , "name": "ASSASSINATION"},
+		{"code": 2 , "name": "ARMED ASSAULT"},
+		{"code": 3 , "name": "BOMBING/EXPLOSION"},
+		{"code": 4 , "name": "HIJACKING"},
+		{"code": 5 , "name": "HOSTAGE TAKING (BARRICADE INCIDENT)"},
+		{"code": 6 , "name": "HOSTAGE TAKING (KIDNAPPING)"},
+		{"code": 7 , "name": "FACILITY / INFRASTRUCTURE ATTACK"},
+		{"code": 8 , "name": "UNARMED ASSAULT"},
+		{"code": 9 , "name": "UNKNOWN"}
+	]
+};
